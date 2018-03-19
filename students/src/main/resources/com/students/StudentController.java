@@ -32,13 +32,10 @@ public class StudentController {
 			mv.addObject("Result", l);
 
 			return mv;
-		}
-		else
-		
-		return mv;
+		} else
+
+			return mv;
 
 	}
-	
-
 
 }
