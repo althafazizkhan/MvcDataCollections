@@ -21,10 +21,9 @@
 		</select> <input type="submit"><br>
 	</form>
 	
-	<form action="list">
-	<input type ="submit" value = "list">
 	
-	</form>
+	
+	<a href="list">list</a>
 	
 	
 </body>
